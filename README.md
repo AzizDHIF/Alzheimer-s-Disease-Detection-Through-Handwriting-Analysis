@@ -3,7 +3,7 @@
 
 # 🧠 Alzheimer’s Disease Detection from Handwriting Data
 
-This repository contains my solution for a **Kaggle competition** focused on developing a predictive model capable of distinguishing between **Alzheimer’s Disease (AD) patients and healthy individuals** using **handwriting-based features**.
+This repository contains our solution for a **Kaggle competition** focused on developing a predictive model capable of distinguishing between **Alzheimer’s Disease (AD) patients and healthy individuals** using **handwriting-based features**.
 
 The project explores the use of data analysis and machine learning techniques to identify patterns in handwriting that may be associated with early signs of Alzheimer’s disease.
 
