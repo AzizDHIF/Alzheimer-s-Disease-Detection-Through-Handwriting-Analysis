@@ -9,6 +9,14 @@ The project explores the use of data analysis and machine learning techniques to
 
 ---
 
+## Team
+
+* Mohamed Karim Elkadhi
+* Aziz Dhif
+* Fatma Chahed
+
+---
+
 ## 📊 Project Objective
 
 The goal is to build a **classification model** that can accurately predict whether a person has Alzheimer’s disease based on structured handwriting-related data.
